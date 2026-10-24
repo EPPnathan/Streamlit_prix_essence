@@ -4,8 +4,9 @@ Individual project, EFREI 2026 (Data Analysis & Visualization, Prof. Mano Mathew
 
 A Streamlit app that tells one story: French pump prices spiked in 2022 and have come down since, but the gaps between départements and between road and motorway stations have grown since 2019.
 
-- Deployed app: (link to add after deployment)
-- Demo video: (link to add)
+- Deployed app: https://appprixessence-5kjleazmfnbappyznrfutxh.streamlit.app/
+- Code: https://github.com/EPPnathan/Streamlit_prix_essence
+- Demo video: `Presentation_projet.mp4`, included in the submitted zip file
 - Dataset and links: see `DATASET.md`
 
 ## Run
