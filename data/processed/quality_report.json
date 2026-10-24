@@ -1,0 +1,65 @@
+{
+  "2024": {
+    "lignes_brutes": 4592186,
+    "date_ou_prix_invalide": 4573,
+    "carburant_inconnu": 0,
+    "prix_aberrant": 18,
+    "doublons": 64,
+    "lignes_finales": 4587531,
+    "stations": 14162
+  },
+  "2019": {
+    "lignes_brutes": 4214434,
+    "date_ou_prix_invalide": 3295,
+    "carburant_inconnu": 0,
+    "prix_aberrant": 148,
+    "doublons": 143,
+    "lignes_finales": 4210848,
+    "stations": 12969
+  },
+  "2020": {
+    "lignes_brutes": 3863795,
+    "date_ou_prix_invalide": 3570,
+    "carburant_inconnu": 0,
+    "prix_aberrant": 194,
+    "doublons": 74,
+    "lignes_finales": 3859957,
+    "stations": 13188
+  },
+  "2021": {
+    "lignes_brutes": 4287387,
+    "date_ou_prix_invalide": 3695,
+    "carburant_inconnu": 0,
+    "prix_aberrant": 128,
+    "doublons": 71,
+    "lignes_finales": 4283493,
+    "stations": 13386
+  },
+  "2022": {
+    "lignes_brutes": 5048606,
+    "date_ou_prix_invalide": 4010,
+    "carburant_inconnu": 0,
+    "prix_aberrant": 228,
+    "doublons": 375,
+    "lignes_finales": 5043993,
+    "stations": 13645
+  },
+  "2023": {
+    "lignes_brutes": 4687530,
+    "date_ou_prix_invalide": 4177,
+    "carburant_inconnu": 0,
+    "prix_aberrant": 198,
+    "doublons": 147,
+    "lignes_finales": 4683008,
+    "stations": 13837
+  },
+  "2025": {
+    "lignes_brutes": 5302458,
+    "date_ou_prix_invalide": 4658,
+    "carburant_inconnu": 0,
+    "prix_aberrant": 0,
+    "doublons": 1,
+    "lignes_finales": 5297799,
+    "stations": 14420
+  }
+}
